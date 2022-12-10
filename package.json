@@ -9,7 +9,7 @@
 		"body-parser": "^1.19.0",
 		"cookie-parser": "~1.4.5",
 		"debug": "^4.1.1",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"googleapis": "^48.0.0",
 		"pug": "^3.0.1",
 		"mongodb": "~3.5.5",
